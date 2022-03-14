@@ -1,0 +1,36 @@
+ 1: List 5 difference between Browser JS(console) v Nodejs
+ 
+                       Browser JS                                               Nodejs
+         1    *  JS language is is used for                    *  NodeJS is a Javascript runtime environment.
+                 writing scripts on the website. 
+ 
+         2    *  JS can only run in the browsers.              *  JS can run outside the browser with the help of NodeJS.
+         
+         3    *  It is basically used on the client side.      *  It is mostly used on the server side.
+         
+         4    *  JS is capable enough to add HTML              *  Nodejs does not have capability to add HTML tags.
+                 and play with the DOM. 
+ 
+         5    *  JS is used in frontend development.           *  Nodejs is used in server-side development.
+
+
+
+  2:  Execute the below code and write your description in txt file
+       
+       
+                   a.   typeof(1)            number
+                   b.   typeof(1.1)          number
+                   c.   typeof('1.1')        string
+                   d.   typeof(true)         boolean
+                   e.   typeof(null)         object
+                   f.   typeof(undefined)    undefined
+                   g.   typeof([])           object
+                   h.   typeof({})           object
+                   i.   typeof(NaN)          number
+
+
+
+
+         3: what is prototype 
+              Prototypes are the mechanism by which JavaScript objects inherit features from one another .
+              and It  allows you to add properties and methods to any object .
